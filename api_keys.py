@@ -10,4 +10,5 @@ walk_key = "YOUR KEY HERE!"
 # School Score API key
 school_key = "YOUR KEY HERE!"
 
-#
+# School Digger API key
+digger_key = "ea14676381f70e7dccb7e08aa287528c"
